@@ -1,7 +1,8 @@
 # HtmlTableTools
 
-`HtmlTableTools` is a Python utility with many functions. It can:
-- reverse the rows of an HTML table based on a specified identifier string within the table's content.
+`HtmlTableTools` is a Python utility with many functions. 
+It can:
+- `reverse` the rows of an HTML table based on a specified identifier string within the table's content.
 
 ## Features
 
